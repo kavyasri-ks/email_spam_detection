@@ -26,12 +26,13 @@ Use environment variables or secure input prompts.
 
 💻 Getting Started
 
-Clone the repository
+Clone the repository 
+```bash
+git clone https://github.com/kavyasri-ks/email_spam_detection.git
 
-  git clone https://github.com/kavyasri-ks/email_spam_detection.git
-  
-  cd email_spam_detection
-  
+cd email_spam_detection
+```
+
 📊 Workflow
     Dataset Loading – Reads email dataset or fetched emails.
     Text Preprocessing – Cleans and tokenizes email text.
